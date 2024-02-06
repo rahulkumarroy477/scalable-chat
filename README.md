@@ -1,3 +1,7 @@
+# this is output of project
+
+![output file](Recording 2024-02-06 112320.gif)
+
 # Turborepo starter
 
 This is an official starter Turborepo.

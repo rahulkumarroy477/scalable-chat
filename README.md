@@ -1,6 +1,6 @@
 # this is output of project
 
-![output file](Recording 2024-02-06 112320.gif)
+![output file](record.gif)
 
 # Turborepo starter
 
